@@ -1,0 +1,4 @@
+github.com/naxmefy/go-modules/module1 v0.0.0-20240624090033-77dbbcf41309 h1:EDMQYC8xfHEVbzVr9dwF8kPqsFkWH5EULu5bUw2xUK8=
+github.com/naxmefy/go-modules/module1 v0.0.0-20240624090033-77dbbcf41309/go.mod h1:k3ue+0BHWJ1KZqef3cz/0NaYda9MCZm17ALCLKsHtLM=
+github.com/naxmefy/go-modules/module2 v0.0.0-20240624091949-68f96cbe1f48 h1:dmi3hMCx0ETtqsk9kAxHbl7CmQC9I2kzPM1L6qqTUlI=
+github.com/naxmefy/go-modules/module2 v0.0.0-20240624091949-68f96cbe1f48/go.mod h1:+Hz3ncNbMJSdoOAeOfTM02+gJr1Mei3QcefYVdvYKlI=
