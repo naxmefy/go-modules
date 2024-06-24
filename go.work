@@ -1,0 +1,7 @@
+go 1.22.0
+
+use (
+	./lib/a/b/c
+	./module1
+	./module2
+)
